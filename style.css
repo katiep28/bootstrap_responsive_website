@@ -1,0 +1,10 @@
+body{
+background-color: aqua;
+
+}
+.col-red{
+    background-color: crimson;
+}
+.col-yell{
+    background-color: rgb(167, 220, 20);
+}
